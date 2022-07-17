@@ -1,0 +1,8 @@
+{
+  "menuItem": [
+    {
+      "menuName": "首页",
+      "menuUrl": "/home"
+    }
+  ]
+}
